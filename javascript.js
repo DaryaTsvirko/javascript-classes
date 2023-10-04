@@ -53,6 +53,3 @@ console.log(teacher1.isGroupTeacher(student1.group)); // true
 console.log(teacher1.isGroupTeacher(student2.group)); // false 
 console.log(Student.MIN_GRADE_FOR_SCHOLARSHIP); // 4
 
-console.log("lalal");
-
-console.log(student1.age);
